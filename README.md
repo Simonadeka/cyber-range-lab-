@@ -24,7 +24,7 @@ Building it taught me: IP planning, firewalls, troubleshooting > just running to
 3. **.vmdk path broken**: Re-linked disk file in VirtualBox.
 
 ### How to Recreate This Lab
-Follow the step-by-step scripts below. Tested on Windows 11 + VirtualBox 7.x
+Follow the step-by-step scripts below. Tested on Windows 10 + VirtualBox 7.x
 
 ### Screenshots
 ![VMs Overview](screenshots/vbox-vms.png)
