@@ -3,9 +3,9 @@ Pentest lab built with VirtualBox for learning SOC + Pentesting skills in public
 
 ### What I built
 4 virtual machines that can talk to each other on an isolated network:
-- **Kali Linux 192.168.56.101** - Attacker machine
+- **Kali Linux 192.168.56.103** - Attacker machine
 - **Metasploitable 2 192.168.56.102** - Vulnerable target 
-- **Ubuntu Server 192.168.56.103** - Future Splunk SIEM
+- **Ubuntu Server 192.168.56.101** - Future Splunk SIEM
 - **Windows 10 192.168.56.104** - Corporate endpoint
 
 ### Network Design
